@@ -1,4 +1,4 @@
-# 🔐 Simulador de Logs de Tentativas de Login
+# Simulador de Logs de Tentativas de Login
 
 Projeto simples e útil que simula tentativas de login em um sistema — desde acessos legítimos até ataques maliciosos — gerando logs realistas em `.txt` e `.json`. Ideal pra quem estuda cibersegurança ou quer testar sistemas de monitoramento de eventos.
 
@@ -6,7 +6,7 @@ Esse projetos estará disponível com **mais detalhes** no meu [BLOG](https://so
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 -  Geração de tentativas legítimas e de ataque
 -  Dados realistas usando a biblioteca Faker
@@ -16,7 +16,7 @@ Esse projetos estará disponível com **mais detalhes** no meu [BLOG](https://so
 
 ---
 
-## 🚀 Como usar
+## Como usar
 
 1. Clone o repositório:
    ```bash
@@ -36,7 +36,7 @@ Esse projetos estará disponível com **mais detalhes** no meu [BLOG](https://so
 
 ---
 
-## 💡 Exemplo de saída
+## Exemplo de saída
 
 **Formato `.txt`**
 ```txt
@@ -60,19 +60,13 @@ Esse projetos estará disponível com **mais detalhes** no meu [BLOG](https://so
 
 ---
 
-## 🛠️ Tecnologias usadas
+## Tecnologias usadas
 
 - [Python 3.13.3](https://www.python.org/)
 - [Faker](https://faker.readthedocs.io/en/master/)
 
 ---
 
-## 👩‍💻 Autoria
-
-Desenvolvido por [Sofia Silva](https://github.com/sofianmsilva)  
-
----
-
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
